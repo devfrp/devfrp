@@ -9,11 +9,15 @@
 
 | Projet | Description | Stack |
 |---|---|---|
+| **[Linux-motu-pci-424](https://github.com/devfrp/Linux-motu-pci-424)** | Driver ALSA Linux from scratch pour la carte audio MOTU PCI-324/PCI-424 et ses interfaces AudioWire, rétro-ingénierie du driver Windows constructeur | `C` `Python` [🌐](https://devfrp.github.io/linux-motu-pci-424/) |
 | **[winux](https://github.com/devfrp/winux)** | Exécuteur Windows PE natif sous Linux — sans Wine, sans VM, sans conteneur | `C` `MIT` [🌐](https://devfrp.github.io/winux/) |
 | **[rj45-sound-card](https://github.com/devfrp/rj45-sound-card)** | Pont audio réseau — partage une carte son via Ethernet/RJ45 (Windows, Linux, macOS) | `Rust` [🌐](https://devfrp.github.io/rj45-sound-card/) |
 | **[asnux](https://github.com/devfrp/asnux)** | Moteur audio basse latence pour Linux, équivalent ASIO4ALL — 20 formats de paquets | `Shell` [🌐](https://devfrp.github.io/asnux/) |
 | **[REAPER-OS](https://github.com/devfrp/REAPER-OS)** | Distribution Linux orientée MAO (Musique Assistée par Ordinateur) basée sur REAPER | `Shell` `GPLv3` [🌐](https://devfrp.github.io/REAPER-OS/) |
 | **[sample-vault](https://github.com/devfrp/sample-vault)** | Gestionnaire de samples audio offline-first — React, Tailwind, WaveSurfer.js | `JavaScript` `React` [🌐](https://devfrp.github.io/sample-vault/) |
+| **[easy-hackintosh](https://github.com/devfrp/easy-hackintosh)** | Génère automatiquement un installeur macOS bootable et un dossier EFI OpenCore adapté à ton matériel — Linux & Windows | `Python` |
+| **[macos-tahoe-proxmox](https://github.com/devfrp/macos-tahoe-proxmox)** | Installeur en une commande d'une VM macOS Tahoe (macOS 26) sur Proxmox VE — tout CPU Intel/AMD, avec ou sans AVX2 | `Shell` |
+| **[mcp-garmin-for-ia](https://github.com/devfrp/mcp-garmin-for-ia)** | Connecteur MCP auto-hébergé reliant ton compte Garmin à Claude — zéro serveur tiers, les identifiants ne quittent jamais ta machine | `Python` |
 | **[Memory-game](https://github.com/devfrp/Memory-game)** | Jeu de mémoire en français | `Python` |
 | **[python-pendu](https://github.com/devfrp/python-pendu)** | Le jeu du Pendu en français avec Tkinter | `Python` |
 
