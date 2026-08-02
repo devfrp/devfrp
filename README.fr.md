@@ -36,15 +36,6 @@
 
 ---
 
-### 📊 Stats GitHub
+### DONNATION EN MONERO :
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devfrp&show_icons=true&theme=dark&locale=fr" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrp&layout=compact&theme=dark" alt="top langs" />
-</p>
-
----
-
-<p align="center">
-  <sub>🇫🇷 Baguette · Made with love from France</sub>
-</p>
+89Zh2Xj7Zwh3hHx4nKFTU18nc6ho7WEobLmJo5TdZPqo3maTyMFct4PB6ZVfDboYiDCL272CX4dNjCi52drwSbUyKCEVdGc
