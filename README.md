@@ -38,5 +38,5 @@
 
 ### DONNATION IN MONERO : 
 89Zh2Xj7Zwh3hHx4nKFTU18nc6ho7WEobLmJo5TdZPqo3maTyMFct4PB6ZVfDboYiDCL272CX4dNjCi52drwSbUyKCEVdGc
-  <sub>🇫🇷 Baguette · Made with love from France</sub>
+  
 </p>
