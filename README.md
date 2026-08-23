@@ -34,9 +34,4 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-### DONNATION IN MONERO : 
-89Zh2Xj7Zwh3hHx4nKFTU18nc6ho7WEobLmJo5TdZPqo3maTyMFct4PB6ZVfDboYiDCL272CX4dNjCi52drwSbUyKCEVdGc
-  
-</p>
