@@ -20,10 +20,9 @@
   <img src="https://www.gitskins.com/api/section/projects?username=devfrp&theme=neon" alt="devfrp featured projects" />
 </p>
 
-## 🤝 Connect With Me
+## 🤝 My webste
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=devfrp&theme=neon&website=https%3A%2F%2Fdevfrp.github.io%2F" alt="devfrp social links" />
-</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devfrp) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devfrp.github.io/)
+</p>
