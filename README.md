@@ -20,8 +20,3 @@
   <img src="https://www.gitskins.com/api/section/projects?username=devfrp&theme=neon" alt="devfrp featured projects" />
 </p>
 
-## 🤝 My webste
-
-<p align="center">
- [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devfrp.github.io/)
-</p>
